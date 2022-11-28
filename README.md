@@ -175,7 +175,7 @@ In our action, we post a comment on the pull request using a [bash](https://en.w
   Define terms and link to docs.github.com.
 -->
 
-<details id=4>
+<details id=4 open>
 <summary><h2>Step 4: Merge your workflow file</h2></summary>
 
 _You're now able to write and run an Actions workflow! :sparkles:_
